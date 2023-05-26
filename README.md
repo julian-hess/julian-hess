@@ -2,11 +2,6 @@
 <h3 align="left">I am a programmer from Austria.</h3>
 <hr>
 
-<h3 algin="left">My hobby is:<h3>
-<p algin="left">programming</p>
-   
- <hr>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/kx39GShYnE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kx39GShYnE" height="30" width="40" /></a>
