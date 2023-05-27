@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Julian</h1>
 <h3 align="left">I am a programmer from Austria.</h3>
 
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julian-hess&label=Profile%20views&color=0e75b6&style=flat" alt="julian-hess" /> </p>
 
 <hr>
