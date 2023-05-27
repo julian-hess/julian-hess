@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Julian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julian-hess&label=Profile%20views&color=0e75b6&style=flat" alt="julian-hess" /> </p>
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/kx39GShYnE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kx39GShYnE" height="30" width="40" /></a>
