@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm Julian</h1>
-<h3 align="left">I am a programmer from Austria.</h3>
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
