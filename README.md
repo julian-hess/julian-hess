@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julian-hess&label=Profile%20views&color=0e75b6&style=flat" alt="julian-hess" /> </p>
 
-![Repository Views](https://komarev.com/ghpvc/?username=julian-hess=FiguraLib+Views)
+![Repository Views](https://komarev.com/ghpvc/?username=julian-hess&label=Repository+Views)
 
 - 🔭 I’m currently working on **FiguraLib**
 
