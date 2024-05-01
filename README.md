@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julian-hess&label=Profile%20views&color=0e75b6&style=flat" alt="julian-hess" /> </p>
 
-- 🔭 I’m currently working on **Figurify**
+- 🔭 I’m currently working on **FiguraLib**
 
 - 🌱 I’m currently learning **Python, JavaScript, Html and Css**
 
