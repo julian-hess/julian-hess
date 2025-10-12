@@ -1,8 +1,3 @@
 <h1>Hi👋, I'm Julian</h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,java,linux,postgres,py,rust,ubuntu,windows" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,arch,ubuntu,windows,postgres,py,java,rust&perline=5)](https://skillicons.dev)
