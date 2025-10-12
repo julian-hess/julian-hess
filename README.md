@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch, bash, java, linux, postgres, py, rust, ubuntu, windows, " />
+    <img src="https://skillicons.dev/icons?i=arch,bash,java,linux,postgres,py,rust,ubuntu,windows" />
   </a>
 </p>
+
